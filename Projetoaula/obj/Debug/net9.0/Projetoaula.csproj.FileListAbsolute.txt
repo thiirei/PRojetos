@@ -1,0 +1,14 @@
+C:\curso Thiago\Projetoaula\bin\Debug\net9.0\Projetoaula.exe
+C:\curso Thiago\Projetoaula\bin\Debug\net9.0\Projetoaula.deps.json
+C:\curso Thiago\Projetoaula\bin\Debug\net9.0\Projetoaula.runtimeconfig.json
+C:\curso Thiago\Projetoaula\bin\Debug\net9.0\Projetoaula.dll
+C:\curso Thiago\Projetoaula\bin\Debug\net9.0\Projetoaula.pdb
+C:\curso Thiago\Projetoaula\obj\Debug\net9.0\Projetoaula.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso Thiago\Projetoaula\obj\Debug\net9.0\Projetoaula.AssemblyInfoInputs.cache
+C:\curso Thiago\Projetoaula\obj\Debug\net9.0\Projetoaula.AssemblyInfo.cs
+C:\curso Thiago\Projetoaula\obj\Debug\net9.0\Projetoaula.csproj.CoreCompileInputs.cache
+C:\curso Thiago\Projetoaula\obj\Debug\net9.0\Projetoaula.dll
+C:\curso Thiago\Projetoaula\obj\Debug\net9.0\refint\Projetoaula.dll
+C:\curso Thiago\Projetoaula\obj\Debug\net9.0\Projetoaula.pdb
+C:\curso Thiago\Projetoaula\obj\Debug\net9.0\Projetoaula.genruntimeconfig.cache
+C:\curso Thiago\Projetoaula\obj\Debug\net9.0\ref\Projetoaula.dll
